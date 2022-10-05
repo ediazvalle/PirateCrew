@@ -1,0 +1,15 @@
+nav {
+    background-color: #783f04;
+    padding: 10px;
+    color: white !important;
+}
+
+nav .button {
+    text-align: end;
+    margin-top: -43px;
+}
+
+nav .button .btn {
+    background-color: #085394;
+    color: white;
+}

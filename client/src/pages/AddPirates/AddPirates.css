@@ -1,0 +1,12 @@
+.AddPirates {
+    padding: 60px;
+}
+
+.AddPirates label {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.AddPirates .checkboxes div {
+    margin-bottom: 10px;
+}

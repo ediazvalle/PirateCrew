@@ -1,0 +1,32 @@
+@import 'antd/dist/antd.css';
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden !important;
+    background-color: #ff9900;
+}
+
+body a {
+    color: black;
+}
+
+body a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.anticon {
+    vertical-align: text-top !important;
+}
+
+.btn {
+    background-color: #085394;
+    color: white;
+    border: none !important;
+}
+.btn:focus {
+    background-color: #085394;
+    color: white !important;
+    border: none !important;
+}

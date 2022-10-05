@@ -1,0 +1,21 @@
+.DashboardCard {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: white;
+}
+
+.DashboardCard img {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.DashboardCard .btn.view {
+    background-color: #085394;
+    padding: 10px;
+    width: 100% !important;
+}
+
+.DashboardCard .btn.walk {
+    background-color: #cf2a27;
+    padding: 10px;
+}

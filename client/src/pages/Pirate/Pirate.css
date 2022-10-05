@@ -1,0 +1,37 @@
+.Pirate {
+    padding: 0px 43px;
+}
+
+.Pirate .col-md-6.about {
+    border: 2px solid black;
+    background-color: white;
+    padding: 23px 10px;
+    text-align: center;
+    font-size: 23px;
+}
+
+.Pirate .col-md-6 img {
+    border: 2px solid black;
+    max-height: 400px;
+}
+
+
+.Pirate .about .item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.Pirate .Yes {
+    background-color: #38761d;
+    border: none;
+    color: white;
+    padding: 2px 15px;
+}
+
+.Pirate .No {
+    background-color: #cf2a27;
+    border: none;
+    color: white;
+    padding: 2px 15px;
+}
